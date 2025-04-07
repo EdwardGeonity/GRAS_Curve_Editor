@@ -1,5 +1,4 @@
-[image](https://github.com/user-attachments/assets/96d7fb51-b9ae-4d59-996e-72ee479673c3)
-
+![GRAS_Curve_Editor](https://github.com/user-attachments/assets/2a841253-d3e1-43f3-8c33-b94b994e4af4)
 
 📘 GrasCurveEditor – Luma Correction Curve Editor for Samsung Sensors
 
